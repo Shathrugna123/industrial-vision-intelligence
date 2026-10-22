@@ -1,0 +1,15 @@
+
+# Python environment
+vision_env/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Dataset and generated files
+data/raw/
+data/processed/
+models/
+outputs/
+
+# Secrets
+.env

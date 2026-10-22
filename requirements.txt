@@ -1,0 +1,13 @@
+@"
+torch
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+streamlit
+scipy
+tqdm
+"@ | Set-Content requirements.txt
